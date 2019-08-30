@@ -1,0 +1,19 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm 0 0.6862 bala-color.jpg
+bump bala-bump.jpg -bm 0.3
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bala-especular.jpg
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.5 0.5 -mm 0 0.217054 cartu-especular.jpg
+bump -s 0.5 0.5 -mm 0 0.217054 cartu-especular.jpg -bm 0.3
+Ni 1.00
+Ks 1.00 1.00 1.00
